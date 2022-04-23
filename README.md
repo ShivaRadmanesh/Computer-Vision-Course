@@ -1,4 +1,4 @@
-# Computer Vision course assignemts
+# Computer Vision course assignments
 
 ## **1. Image Fundamentals**
 <br>
